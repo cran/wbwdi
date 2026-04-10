@@ -1,7 +1,7 @@
 Type: Package
 Package: wbwdi
 Title: Seamless Access to World Bank World Development Indicators (WDI)
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c(
     person("Christoph", "Scheuch", , "christoph@tidy-intelligence.com", 
             role = c("aut", "cre", "cph"),
@@ -26,9 +26,9 @@ URL: https://github.com/tidy-intelligence/r-wbwdi,
 BugReports: https://github.com/tidy-intelligence/r-wbwdi/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-11-20 12:53:41 UTC; krise
+Packaged: 2026-04-10 13:24:43 UTC; krise
 Author: Christoph Scheuch [aut, cre, cph] (ORCID:
     <https://orcid.org/0009-0004-0423-6819>)
 Maintainer: Christoph Scheuch <christoph@tidy-intelligence.com>
 Repository: CRAN
-Date/Publication: 2025-11-20 13:30:02 UTC
+Date/Publication: 2026-04-10 16:50:02 UTC
